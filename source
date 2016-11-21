@@ -1156,104 +1156,103 @@
   ],
  
 
-"weapons": [
-  	"pair of gauntlets",
-	"trident",
-  	"whip",
-  	"spear",
-	"sword",
-  	"shield",
+	"weapons": [
+		"pair of gauntlets",
+		"trident",
+		"whip",
+		"spear",
+		"sword",
+		"shield",
+		"war hammer",
+		"yo-yo",
+		"bow and arrow",
+		"knife",
+		"flail",
+		"helmet",
+		"brass knuckles",
+		"pickaxe",
+		"labrys",
+		"hatchet",
+		"club",
+		"boomerang",
+		"axe",
+		"frying pan",
+		"club",
+		"mace",
+		"morning star",
+		"sickle",
+		"katana",
+		"nunchuck",
+		"staff",
+		"lance",
+		"scythe",
+		"javelin",
+		"set of darts",
+		"crossbow",
+		"lasso",
+		"slingshot",
+		"battering ram",
+		"chainsaw",
+		"iron maiden"
+	],
+
+	"concept": [
+		"love",
+		"trust",
+		"family",
+		"checking github for a list of nicer concepts"
+
+	],
+
+
+	"secret": [
+		"fusion",
+		"rebel",
+		"spy"
+	],
+
+
+	"wielding":[
+		"fights with",
+		"battles with",
+		"can summon",
+		"summons",
+		"has a",
+		"wields"
+	],
+
   
-	"war hammer",
-  	"yo-yo",
- 	"bow and arrow",
-	"knife",
-	"flail",
-	"helmet",
+	"always":[
+		"always",
+		"usually",
+		"frequently",
+		"typically",
+		"rarely",
+		"hardly ever",
+		"often"
 
-    "brass knuckles",
-    "pickaxe",
-    "labrys",
-    "hatchet",
-    "club",
-    "boomerang",
-    "axe",
-    "frying pan",
-    "club",
-    "mace",
-    "morning star",
-    "sickle",
-    "katana",
-	"nunchuck",
-    "staff",
-    "lance",
-    "scythe",
-    "javelin",
-    "set of darts",
-    "crossbow",
-    "lasso",
-    "slingshot",
-    "battering ram",
-    "chainsaw",
-	"iron maiden"
-  ],
+	],
 
-"concept": [
-	"love",
-	"trust",
-	"family",
-	"checking github for a list of nicer concepts"
-
-],
-
-
-"secret": [
-	"fusion",
-	"rebel",
-	"spy"
-],
-
-
-"wielding":[
-  "fights with",
-  "battles with",
-  "can summon",
-  "has a",
-  "wields"
-],
-
-  
-"always":[
-  "always",
-  "usually",
-  "frequently",
-  "typically",
-  "rarely",
-  "hardly ever",
-  "often"
-
-],
-
-"story": [
+	"story": [
 		"She lost her whole team during the war",
 		"#gemstones.capitalize# taught her about #concept#",
 		"She’s secretly a #secret#"
-],
+	],
 
 
-"basics": [
-	"This is my gemsona, #gemstones.capitalize#. Her gem is on her #bodyParts#, she's #always# #adj#, and her weapon is #weapons.a#",
-	"New gemsona concept: #gemstones.capitalize#, #adj.a# #weapons# wielder with a gem on her #bodyParts#",
-	"MY gemsona is #adj.a# #bodyParts#-gem #gemstones.capitalize# who #wielding# #weapons.a#"
-],
+	"basics": [
+		"This is my gemsona, #gemstones.capitalize#. Her gem is on her #bodyParts#, she's #always# #adj#, and her weapon is #weapons.a#",
+		"New gemsona concept: #gemstones.capitalize#, #adj.a# #weapons# wielder with a gem on her #bodyParts#",
+		"MY gemsona is #adj.a# #bodyParts#-gem #gemstones.capitalize# who #wielding# #weapons.a#"
+	],
 
 
-"origin":[
-	"#basics#",
-  "#basics#",
-  "#basics#",
-  "#basics#",
-	"#basics#. #story#"
-]
+	"origin":[
+		"#basics#",
+		"#basics#",
+		"#basics#",
+		"#basics#",
+		"#basics#. #story#"
+	]
   
 }
